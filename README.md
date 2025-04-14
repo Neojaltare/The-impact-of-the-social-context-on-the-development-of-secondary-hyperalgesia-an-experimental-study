@@ -10,4 +10,4 @@ Notes
 	•	While each script includes a brief description of its overall purpose, inline comments may be limited, and the code is not optimized for direct reuse.
 	•	The structure reflects how the analysis was performed in the original study.
 
-Feel free to open an issue if you have questions about using or understanding specific parts of the code.
+Feel free to contact the author if you have questions about using or understanding specific parts of the code.
