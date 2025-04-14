@@ -1,4 +1,4 @@
-
+% Script to perform manipulation checks
 
 IntegratedData = readtable("IntegratedData.xls");
 

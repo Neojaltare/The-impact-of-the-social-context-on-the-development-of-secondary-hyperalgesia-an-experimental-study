@@ -1,7 +1,5 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Script Name: CompileQuestionnaireData.m
-%
 % Description:
 % This script integrates questionnaire data from ECR, PCS, and DAS scales 
 % with a behavioral dataset (`Ratingdata`). It aligns participant IDs, 

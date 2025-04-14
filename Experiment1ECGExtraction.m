@@ -1,7 +1,5 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Script Name: HRV_Coherence_Analysis.m
-%
 % Description:
 % This script processes ECG data collected from a participant and their 
 % partner during the experiment. It carries out the following steps:

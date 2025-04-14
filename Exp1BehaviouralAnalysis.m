@@ -1,5 +1,11 @@
+%% Script for organizing and analyzing psychophysiological and behavioral data
+% This script processes data from a social support and pain experiment.
+% It includes data restructuring, outlier handling, computation of summary
+% metrics (e.g., intensity, unpleasantness, surface area, RMSSD), statistical
+% modeling using mixed effects models, and time-frequency/IBI-based synchrony analysis.
+% The final outputs include tables for downstream analysis and publication-ready figures.
 
-%% now rearrange data for the analysis
+%% Rearrange data for the analysis
 % load the integrated data
 Data = IntegratedData;
 Intensity = Data;
